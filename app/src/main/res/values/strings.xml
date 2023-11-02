@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SurveyTrackerApp</string>
+    <string name="txt1">Survey Tracker Menu</string>
+    <string name="btn1">Gestión de Proyectos</string>
+    <string name="btn2">Gestión de Relevamiento</string>
+    <string name="btn3">Exportar Datos</string>
+    <string name="btn4">Salir</string>
+    <string name="txt2">Gestión de Proyectos</string>
+    <string name="btn5">Crear Proyecto</string>
+    <string name="btn6">Exportar Datos</string>
+    <string name="btn7">Volver</string>
+    <string name="txt3">Gestión de Relevamiento</string>
+    <string name="btn8">Cargar Relevamiento</string>
+    <string name="btn9">Editar Relevamiento</string>
+    <string name="btn10">Volver</string>
+</resources>
